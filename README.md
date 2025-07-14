@@ -1,4 +1,6 @@
-<h2 align="left">Hi! I'm Steffi — not a software developer (yet?), but I’m definitely up to something 👩‍💻</h2>
+# Steffi's GitHub Profile
+
+<h2 align="center">Hi! I'm Steffi — not a software developer (yet?), but I’m definitely up to something 👩‍💻</h2>
 
 ###
 
@@ -8,7 +10,7 @@
 
 ###
 
-<img align="right" height="150" src="./e53d031f-4c53-42b4-945b-2c831d163fb7.png" alt="Steffi cartoon avatar" />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="Steffi cartoon avatar" />
 
 ###
 
@@ -37,4 +39,3 @@
 ###
 
 <br clear="both">
-
